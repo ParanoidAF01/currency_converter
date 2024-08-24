@@ -1,6 +1,6 @@
 # currency_converter
 
-A new Flutter project.
+This is my first Flutter and Dart project which I used to implement the most basic concepts of the framework.
 
 ## Getting Started
 

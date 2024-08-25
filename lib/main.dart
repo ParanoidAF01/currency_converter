@@ -1,4 +1,4 @@
-import 'package:currency_converter/CCmaterial.dart';
+import 'package:currency_converter/cc_material.dart';
 import 'package:flutter/material.dart';
 
 void main() {
@@ -10,7 +10,7 @@ class HomeBody extends StatelessWidget {
 
   @override
   Widget build(BuildContext context) {
-    return MaterialApp(
+    return const MaterialApp(
       home: CCmaterial()
     );
   }
